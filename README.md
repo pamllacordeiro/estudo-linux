@@ -4,12 +4,11 @@
 Documentar meu aprendizado em Linux, desde comandos básicos até tópicos avançados.
 
 ## Sumário
-- [Introdução](#introdução)
-- [Comandos Básicos](#comandos-básicos)
-- [Gerenciamento de Arquivos](#gerenciamento-de-arquivos)
-- [Permissões](#permissões)
-- [Shell Scripting](#shell-scripting)
-- [Recursos](#recursos)
+- [Comandos Básicos](./comandos-basicos.md)
+- [Permissões](./permissoes.md)
+- [Shell Scripting](./shell-scripting.md)
+- [Rede no Linux](./rede-linux.md)
+- [Dicas e Truques](./dicas.md)
 
 ## Introdução
 Linux é um sistema operacional poderoso e versátil. Aqui registro tudo que aprendo para reforçar o conhecimento.
