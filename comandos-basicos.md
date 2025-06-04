@@ -1,39 +1,39 @@
-# 📁 Comandos Básicos do Linux
+# 📁 comandos Básicos do Linux
 
 este é um guia com os comandos mais usados no início da jornada com Linux.
 ideal para consulta rápida.
 
 ---
 
-## 📂 Navegação entre diretórios
+## 📂 navegação entre diretórios
 
-| Comando | Descrição |
+| comando | descrição |
 |--------|-----------|
-| `pwd`  | Mostra o caminho completo (diretório atual). |
-| `ls`   | Lista os arquivos e pastas do diretório atual. |
-| `cd nome_da_pasta` | Entra em uma pasta. |
-| `cd ..` | Volta para o diretório anterior. |
-| `cd /` | Vai para o diretório raiz. |
-| `cd ~` | Vai para o diretório do usuário (home). |
+| `pwd`  | mostra o caminho completo (diretório atual). |
+| `ls`   | lista os arquivos e pastas do diretório atual. |
+| `cd nome_da_pasta` | entra em uma pasta. |
+| `cd ..` | volta para o diretório anterior. |
+| `cd /` | vai para o diretório raiz. |
+| `cd ~` | vai para o diretório do usuário (home). |
 
 ---
 
-## 📄 Manipulação de arquivos e pastas
+## 📄 manipulação de arquivos e pastas
 
-| Comando | Descrição |
+| comando | descrição |
 |--------|-----------|
-| `touch nome.txt` | Cria um novo arquivo. |
-| `mkdir nome_da_pasta` | Cria uma nova pasta. |
-| `rm nome.txt` | Remove um arquivo. |
-| `rm -r nome_da_pasta` | Remove uma pasta e tudo que tem dentro. |
-| `mv arquivo destino/` | Move ou renomeia um arquivo. |
-| `cp arquivo destino/` | Copia um arquivo. |
+| `touch nome.txt` | cria um novo arquivo. |
+| `mkdir nome_da_pasta` | cria uma nova pasta. |
+| `rm nome.txt` | remove um arquivo. |
+| `rm -r nome_da_pasta` | remove uma pasta e tudo que tem dentro. |
+| `mv arquivo destino/` | move ou renomeia um arquivo. |
+| `cp arquivo destino/` | copia um arquivo. |
 
 ---
 
-## 📃 Visualizar conteúdo
+## 📃 visualizar conteúdo
 
-| Comando | Descrição |
+| comando | descrição |
 |--------|-----------|
-| `cat arquivo.txt` | Mostra o conteúdo do arquivo |
+| `cat arquivo.txt` | mostra o conteúdo do arquivo |
 
