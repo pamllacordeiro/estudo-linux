@@ -1,4 +1,4 @@
-# hello, worold! 🖖🏽 <br> bem-vindo (a) ao meu estudo de Linux
+# hello, world! 🖖🏽 <br> bem-vindo (a) ao meu estudo de Linux
 <br>
 este site foi criado com GitHub Pages para organizar meus estudos.
 
