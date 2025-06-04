@@ -25,4 +25,4 @@ experimente e aprenda com exercícios práticos!
 ## recursos:
 
 - [linux foundation - linux essentials](https://training.linuxfoundation.org/resources/free-courses/linux-essentials/)
-- [digitalOcean community](https://www.digitalocean.com/community/tutorial_series/linux-commands)
+- [digitalocean community](https://www.digitalocean.com/community/tutorial_series/linux-commands)
