@@ -1,4 +1,4 @@
-# 📁 comandos Básicos do Linux
+# 📁 comandos básicos do Linux
 
 este é um guia com os comandos mais usados no início da jornada com Linux.
 ideal para consulta rápida.
