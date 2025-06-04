@@ -12,7 +12,14 @@ documentar meu aprendizado em Linux, desde comandos básicos até tópicos avan�
 
 ## introdução
 
-linux é um sistema operacional poderoso e versátil. Aqui registro tudo que aprendo para reforçar o conhecimento.
+linux é um sistema operacional poderoso e versátil. aqui registro tudo que aprendo para reforçar o conhecimento.
+
+
+## 🚀 projeto Simulador Terminal Linux
+
+na pasta [`simulador-terminal`](simulador-terminal) você encontra um projeto interativo para praticar comandos básicos no terminal Linux.  
+
+experimente e aprenda com exercícios práticos!
 
 ## recursos
 
