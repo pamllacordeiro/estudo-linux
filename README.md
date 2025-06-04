@@ -1,8 +1,8 @@
-## objetivo
+## objetivo:
 
 documentar meu aprendizado em Linux, desde comandos básicos até tópicos avançados.
 
-## sumário
+## sumário:
 
 - [comandos básicos](./comandos-basicos.md)
 - [permissões](./permissoes.md)
@@ -10,18 +10,19 @@ documentar meu aprendizado em Linux, desde comandos básicos até tópicos avan�
 - [rede no linux](./rede-linux.md)
 - [dicas e truques](./dicas.md)
 
-## introdução
+## introdução:
 
 linux é um sistema operacional poderoso e versátil. aqui registro tudo que aprendo para reforçar o conhecimento.
 
 
-## 🚀 projeto simulador terminal linux 
+## 🚀 projeto simulador terminal linux:
+
 
 na pasta [`simulador-terminal`](simulador-terminal) você encontra um projeto interativo para praticar comandos básicos no terminal Linux.  
 
 experimente e aprenda com exercícios práticos!
 
-## recursos
+## recursos:
 
 - [linux foundation - linux essentials](https://training.linuxfoundation.org/resources/free-courses/linux-essentials/)
 - [digitalOcean community](https://www.digitalocean.com/community/tutorial_series/linux-commands)
